@@ -96,7 +96,7 @@ const HomeBanner = () => {
       {/* Content */}
       <div className="relative z-10 h-full flex items-center">
         <div className="container mx-auto px-6 text-white text-center">
-          <h1 ref={h1Ref} className="text-5xl md:text-7xl font-elegant font-bold mb-6 max-sm:text-4xl ">
+          <h1 ref={h1Ref} className="text-5xl md:text-7xl font-elegant font-bold mb-6 max-sm:text-3xl ">
             {renderAnimatedText("The Art of Fragrance")}
           </h1>
           <p ref={subtitleRef} className="text-xl md:text-2xl max-w-2xl mx-auto mb-8 text-orange-200">

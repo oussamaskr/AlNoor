@@ -108,6 +108,7 @@ const Navbar = () => {
             to="login"
               className="text-primary hover:text-highlight transition"
               aria-label="User Account"
+         
             >
               <FiUser size={24} />
             </Link>
